@@ -1,4 +1,4 @@
-# Mako Takeover
+# 🦈 Mako Takeover 🦈
 
 # Description
 <P>Mako Takeover is a simple bot nuking tool that uses commands</P>
