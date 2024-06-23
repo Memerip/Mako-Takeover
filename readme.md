@@ -1,3 +1,6 @@
+> [!NOTE]
+> ✨ Web panel version with more feature (maybe) coming sooner or later (whenver I feel like making it) ✨
+
 # 🦈 Mako Takeover 🦈
 
 ## 📰 Description
@@ -15,7 +18,7 @@
 
 ## 🔧 WIP Features/Commands
 <ul>
-  <li>✨ Complete rework ✨</li>
+  <li>Much better and improved version</li>
   <li>Show bot permissions</li>
   <li>Show server invite link</li>
 </ul>
