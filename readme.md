@@ -1,9 +1,9 @@
 # 🦈 Mako Takeover 🦈
 
-# 📰 Description
+## 📰 Description
 <P>Mako Takeover is a simple Discord bot nuking tool that uses commands</P>
 
-# 💻 Features/Commands
+## 💻 Features/Commands
 -Give yourself admin permissions (.admin)
 -Give everyone in the server admin permissions (.admin_all)
 -Nuke the server or in other words destory the server (.nuke)
@@ -11,7 +11,7 @@
 -Ban a user of your choice from the server (.ban <user>)
 -Unban a user of your choice that is banned from the server (.ban <user>)
 
-# 🔧 WIP Features/Commands
+## 🔧 WIP Features/Commands
 <ul>
 <li>-✨ Complete rework ✨</li>
 <li>-Show bot permissions</li>
