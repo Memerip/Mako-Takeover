@@ -11,10 +11,12 @@
 -Ban a user of your choice from the server (.ban <user>)
 -Unban a user of your choice that is banned from the server (.ban <user>)
 
-# 🔧 WIP Features
--✨ Complete rework ✨
--Show bot permissions
--Show server invite link
+# 🔧 WIP Features/Commands
+<ul>
+<li>-✨ Complete rework ✨</li>
+<li>-Show bot permissions</li>
+<li>-Show server invite link</li>
+</ul>
 
 # 📝 Setup & Installation Guide
 <p>Everything you need is below (if your stil having issues dm on Discord @memerip)</p>
