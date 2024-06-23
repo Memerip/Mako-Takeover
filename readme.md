@@ -7,7 +7,7 @@
 <ul>
   <li>-Give yourself admin permissions (.admin)</li>
   <li>-Give everyone in the server admin permissions (.admin_all)</li>
-  <li></li>-Nuke the server or in other words destory the server (.nuke)></li>
+  <li>-Nuke the server or in other words destory the server (.nuke)></li>
   <li>-Kick a user of your choice from the server (.kick <user>)</li>
   <li>-Ban a user of your choice from the server (.ban <user>)</li>
   <li>-Unban a user of your choice that is banned from the server (.ban <user>)</li>
