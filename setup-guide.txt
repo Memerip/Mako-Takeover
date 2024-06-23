@@ -18,3 +18,7 @@ pip3 install -r requirements.txt
 python main.py
 or
 python3 main.py
+
+
+
+4. delete both "setup-guide.txt" & "readme.md" or dont doesnt really matter
