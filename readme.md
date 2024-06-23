@@ -1,5 +1,5 @@
 > [!NOTE]
-> ✨ Web panel version with more feature (maybe) coming sooner or later (whenver I feel like making it) ✨
+> ✨ Web panel version with more feature (maybe) coming sooner or later (whenever I feel like making it) ✨
 
 # 🦈 Mako Takeover 🦈
 
