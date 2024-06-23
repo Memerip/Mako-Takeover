@@ -21,5 +21,5 @@
 </ul>
 
 # 📝 Setup & Installation Guide
-<p>Everything you need is below (if your stil having issues dm on Discord @memerip)</p>
+<p>Everything you need is below (if your still having issues dm on Discord @memerip)</p>
 <a href="https://github.com/Memerip/Mako-Takeover/blob/main/setup-guide.txt">View guide</a>
