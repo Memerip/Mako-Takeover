@@ -7,7 +7,7 @@
 <P>Mako Takeover is a Discord bot takeover tool meant for causing chaos and destroying servers</P>
 
 ## 💻 Features/Commands
-<img src="cmd-list.png" width="250" height="150">
+<img src="cmd-list.png" width="500" height="300">
 
 ## 🔧 WIP Features/Commands
 <ul>
