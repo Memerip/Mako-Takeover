@@ -1,3 +1,4 @@
-discord
-os
-random
+import discord
+import asyncio
+import random
+import os
