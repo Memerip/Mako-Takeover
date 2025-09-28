@@ -12,4 +12,4 @@ python main.py
 or
 python3 main.py
 
-4 (optional). delete both "setup-guide.txt" & "readme.md"
+4. (optional) delete both "setup-guide.txt" & "readme.md"
