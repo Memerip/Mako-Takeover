@@ -18,4 +18,4 @@
 
 # 📝 Setup & Installation Guide
 <p>Everything you need to setup mako takeover is below (if your still having issues, join my discord server link in github bio)</p>
-<a href="https://github.com/Memerip/Mako-Takeover/blob/main/setup.txt">View guide</a>
+<a href="https://github.com/Memerip/Mako-Takeover/blob/main/setup.txt">View guide</a> (slightly outdated)
