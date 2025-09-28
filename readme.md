@@ -1,10 +1,10 @@
 > [!NOTE]
-> ✨ Web panel version with more feature (maybe) coming sooner or later (whenever I feel like making it) ✨
+> ✨ 2.0 is in beta, report bugs through the issues tab. ✨
 
 # 🦈 Mako Takeover 🦈
 
 ## 📰 Description
-<P>Mako Takeover is a simple Discord bot nuking tool that uses commands</P>
+<P>Mako Takeover is a Discord bot takeover tool meant for causing chaos and destroying servers</P>
 
 ## 💻 Features/Commands
 <ul>
@@ -18,11 +18,11 @@
 
 ## 🔧 WIP Features/Commands
 <ul>
-  <li>Much better and improved version</li>
-  <li>Show bot permissions</li>
-  <li>Show server invite link</li>
+  <li>Nuke command settings</li>
+  <li>Enhanced admin user command (change the permission of a role you have instead of making a new role)</li>
+  <li>Want a new feature? Suggest one!</li>
 </ul>
 
 # 📝 Setup & Installation Guide
-<p>Everything you need is below (if your still having issues dm on Discord @memerip)</p>
+<p>Everything you need to setup mako takeover is below (if your still having issues, join my discord server link in github bio)</p>
 <a href="https://github.com/Memerip/Mako-Takeover/blob/main/setup.txt">View guide</a>
